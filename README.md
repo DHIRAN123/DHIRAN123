@@ -10,7 +10,7 @@ I'm a full stack web developer trying to Java and React.js my way through life.
 Javascript - React, Node, 
 Java - Springboot
 C++
-AWS, GCP, Azure
+AWS
 Databases - MongoDB, SQL, Firebase Realtime database
 STILL LEARNING..... 
 <!---
